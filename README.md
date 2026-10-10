@@ -42,8 +42,7 @@ This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://git
 
 ```bash
 git clone https://github.com/nuekkis/Minecraft-AFK-Bot.git
-cd Minecraft-AFK-Bot
-```
+cd SKYGOD295
 
 ### 2. Install dependencies
 
@@ -55,9 +54,8 @@ npm install
 
 ```json
 {
-  "serverHost": "yourserver.aternos.me",
-  "serverPort": 25565,
-  "botUsername": "MyBotName",
+  "serverHost"LILYVILLEYSMP2.aternos.me",
+  "serverPort": 11743
   "botChunk": 4
 }
 ```
